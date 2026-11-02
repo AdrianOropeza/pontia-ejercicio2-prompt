@@ -1,0 +1,2667 @@
+[
+  {
+    "id_resena": 2,
+    "Recomendado": "Recomendado",
+    "Recomendado_binario": 1,
+    "longitud_caracteres": 7662,
+    "nivel_informativo": "Alto",
+    "resumen": "Cyberpunk 2077 ofrece una ciudad vibrante y detallada con libertad en misiones y combate, historia y personajes profundos, aunque la dificultad puede ser desequilibrada y presenta algunos problemas técnicos menores.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Positivo",
+    "jugabilidad": "Positivo",
+    "historia": "Positivo",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "Mixto",
+    "relacion_calidad_precio": "Positivo",
+    "dificultad": "Difícil",
+    "aspectos_positivos": [
+      "mundo abierto",
+      "detalles urbanos",
+      "libertad en misiones",
+      "historia",
+      "personajes"
+    ],
+    "aspectos_negativos": [
+      "dificultad desequilibrada",
+      "bugs menores"
+    ],
+    "problemas_tecnicos": [
+      "fps inestable"
+    ],
+    "horas_jugadas": 160.0,
+    "recomendacion_autor": "Sí"
+  },
+  {
+    "id_resena": 3,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 7638,
+    "nivel_informativo": "Alto",
+    "resumen": "Cyberpunk 2077 decepciona por bugs frecuentes, repetitividad en misiones y falta de profundidad en personalización y contenido, aunque la atmósfera y gráficos son sólidos; recomienda esperar parches y tiempo.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Negativo",
+    "jugabilidad": "Mixto",
+    "historia": "Mixto",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "Negativo",
+    "relacion_calidad_precio": "Negativo",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "atmósfera",
+      "gráficos",
+      "música"
+    ],
+    "aspectos_negativos": [
+      "bugs",
+      "repetitividad",
+      "personalización limitada",
+      "contenido escaso"
+    ],
+    "problemas_tecnicos": [
+      "crashes",
+      "animaciones raras",
+      "texturas faltantes",
+      "objetos no saqueables"
+    ],
+    "horas_jugadas": 60.0,
+    "recomendacion_autor": "No"
+  },
+  {
+    "id_resena": 4,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 7609,
+    "nivel_informativo": "Alto",
+    "resumen": "Elden Ring es un juego visualmente bello con buena personalización y diseño abierto, pero su dificultad es excesiva y frustrante, con jefes poco satisfactorios y problemas técnicos que afectan la experiencia.",
+    "juego": "Elden Ring",
+    "sentimiento_general": "Mixto",
+    "jugabilidad": "Negativo",
+    "historia": "Positivo",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "Negativo",
+    "relacion_calidad_precio": "No mencionado",
+    "dificultad": "Difícil",
+    "aspectos_positivos": [
+      "ambientación",
+      "personalización",
+      "mundo abierto"
+    ],
+    "aspectos_negativos": [
+      "dificultad excesiva",
+      "jefes frustrantes",
+      "problemas técnicos",
+      "reutilización de enemigos"
+    ],
+    "problemas_tecnicos": [
+      "caídas de frames",
+      "enemigos con regeneración de vida",
+      "muerte súbita de montura"
+    ],
+    "horas_jugadas": NaN,
+    "recomendacion_autor": "Condicional"
+  },
+  {
+    "id_resena": 5,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 7609,
+    "nivel_informativo": "Alto",
+    "resumen": "Elden Ring ofrece combate sólido y mundo extenso pero falla en innovación, historia repetitiva y problemas técnicos graves que afectan la experiencia, resultando en una decepción para fans de la saga.",
+    "juego": "Elden Ring",
+    "sentimiento_general": "Negativo",
+    "jugabilidad": "Mixto",
+    "historia": "Negativo",
+    "graficos_ambientacion": "Mixto",
+    "rendimiento_tecnico": "Negativo",
+    "relacion_calidad_precio": "No mencionado",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "combate",
+      "mundo extenso",
+      "estilo visual"
+    ],
+    "aspectos_negativos": [
+      "historia repetitiva",
+      "problemas técnicos",
+      "diseño de jefes pobre",
+      "repetición de contenido"
+    ],
+    "problemas_tecnicos": [
+      "caídas de fps",
+      "crashes",
+      "lags de shaders"
+    ],
+    "horas_jugadas": 150.0,
+    "recomendacion_autor": "No"
+  },
+  {
+    "id_resena": 6,
+    "Recomendado": "Recomendado",
+    "Recomendado_binario": 1,
+    "longitud_caracteres": 7604,
+    "nivel_informativo": "Alto",
+    "resumen": "Cyberpunk 2077 destaca por su historia y personajes profundos, mundo detallado y sistema RPG interesante, aunque presenta bugs y limitaciones en IA y personalización; espera mejoras con futuros parches y DLC.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Positivo",
+    "jugabilidad": "Positivo",
+    "historia": "Positivo",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "Mixto",
+    "relacion_calidad_precio": "Positivo",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "historia",
+      "personajes",
+      "mundo abierto",
+      "sistema RPG",
+      "banda sonora"
+    ],
+    "aspectos_negativos": [
+      "bugs",
+      "IA limitada",
+      "personalización limitada"
+    ],
+    "problemas_tecnicos": [
+      "softlocks",
+      "bugs varios"
+    ],
+    "horas_jugadas": 70.0,
+    "recomendacion_autor": "Sí"
+  },
+  {
+    "id_resena": 7,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 7590,
+    "nivel_informativo": "Alto",
+    "resumen": "Promesas incumplidas en IA, misiones y personalización; juego lineal y corto con mecánicas simplificadas y problemas de inmersión; gráficos y banda sonora destacados.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Negativo",
+    "jugabilidad": "Negativo",
+    "historia": "Negativo",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "No mencionado",
+    "relacion_calidad_precio": "No mencionado",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "gráficos",
+      "banda sonora"
+    ],
+    "aspectos_negativos": [
+      "inteligencia artificial",
+      "misiones recortadas",
+      "personalización limitada",
+      "linealidad",
+      "falta de inmersión"
+    ],
+    "problemas_tecnicos": [],
+    "horas_jugadas": NaN,
+    "recomendacion_autor": "No"
+  },
+  {
+    "id_resena": 8,
+    "Recomendado": "Recomendado",
+    "Recomendado_binario": 1,
+    "longitud_caracteres": 7588,
+    "nivel_informativo": "Alto",
+    "resumen": "Combate profundo y mundo bello con historia oscura y retadora; problemas de rendimiento en zonas de carga; juego pulido pero con falta de innovación creativa.",
+    "juego": "Elden Ring",
+    "sentimiento_general": "Positivo",
+    "jugabilidad": "Positivo",
+    "historia": "Positivo",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "Negativo",
+    "relacion_calidad_precio": "No mencionado",
+    "dificultad": "Difícil",
+    "aspectos_positivos": [
+      "combate",
+      "mundo abierto",
+      "historia",
+      "diseño de niveles",
+      "jefes"
+    ],
+    "aspectos_negativos": [
+      "rendimiento",
+      "caídas de fps"
+    ],
+    "problemas_tecnicos": [
+      "caídas de fps en zonas de carga"
+    ],
+    "horas_jugadas": 2240.0,
+    "recomendacion_autor": "Sí"
+  },
+  {
+    "id_resena": 9,
+    "Recomendado": "Recomendado",
+    "Recomendado_binario": 1,
+    "longitud_caracteres": 7587,
+    "nivel_informativo": "Alto",
+    "resumen": "Mundo inmersivo y detallado con buena historia y variedad de estilos de juego; problemas técnicos y bugs persistentes; misiones secundarias poco orgánicas.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Mixto",
+    "jugabilidad": "Positivo",
+    "historia": "Positivo",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "Negativo",
+    "relacion_calidad_precio": "Positivo",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "mundo abierto",
+      "historia",
+      "variedad de armas",
+      "personalización",
+      "foto modo"
+    ],
+    "aspectos_negativos": [
+      "bugs",
+      "rendimiento",
+      "misiones repetitivas",
+      "falta de personalización vehicular"
+    ],
+    "problemas_tecnicos": [
+      "caídas de fps",
+      "glitches visuales",
+      "objetos atascados",
+      "softlocks"
+    ],
+    "horas_jugadas": NaN,
+    "recomendacion_autor": "Condicional"
+  },
+  {
+    "id_resena": 10,
+    "Recomendado": "Recomendado",
+    "Recomendado_binario": 1,
+    "longitud_caracteres": 7583,
+    "nivel_informativo": "Alto",
+    "resumen": "Experiencia disfrutable similar a juegos de Bethesda con mundo inmersivo y buena narrativa; rol limitado y bugs persistentes; juego mejor tras parches pero lanzamiento precipitado.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Mixto",
+    "jugabilidad": "Mixto",
+    "historia": "Positivo",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "Negativo",
+    "relacion_calidad_precio": "Positivo",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "mundo abierto",
+      "historia",
+      "personajes",
+      "banda sonora",
+      "exploración"
+    ],
+    "aspectos_negativos": [
+      "bugs",
+      "rendimiento",
+      "rol limitado",
+      "animaciones pobres"
+    ],
+    "problemas_tecnicos": [
+      "softlocks",
+      "glitches gráficos",
+      "fallos de animación"
+    ],
+    "horas_jugadas": NaN,
+    "recomendacion_autor": "Condicional"
+  },
+  {
+    "id_resena": 11,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 7578,
+    "nivel_informativo": "Alto",
+    "resumen": "Conducción aceptable pero IA pobre; sigilo deficiente; combate repetitivo; historia interesante pero final abrupto; muchos bugs y problemas técnicos; personalización limitada.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Mixto",
+    "jugabilidad": "Mixto",
+    "historia": "Mixto",
+    "graficos_ambientacion": "Mixto",
+    "rendimiento_tecnico": "Negativo",
+    "relacion_calidad_precio": "No mencionado",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "conducción",
+      "historia inicial",
+      "ambientación"
+    ],
+    "aspectos_negativos": [
+      "inteligencia artificial",
+      "sigilo",
+      "bugs",
+      "personalización",
+      "final de historia"
+    ],
+    "problemas_tecnicos": [
+      "personajes atravesando objetos",
+      "animaciones fallidas",
+      "misiones que no cargan",
+      "objetos atascados",
+      "fallos en cámara"
+    ],
+    "horas_jugadas": NaN,
+    "recomendacion_autor": "Condicional"
+  },
+  {
+    "id_resena": 12,
+    "Recomendado": "Recomendado",
+    "Recomendado_binario": 1,
+    "longitud_caracteres": 7571,
+    "nivel_informativo": "Alto",
+    "resumen": "Gran diseño visual y narrativa inmersiva con buena banda sonora y variedad de estilos de juego pero con IA pobre, poca personalización, sistema de loot aburrido y problemas en la ambientación y misiones.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Mixto",
+    "jugabilidad": "Mixto",
+    "historia": "Positivo",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "No mencionado",
+    "relacion_calidad_precio": "Mixto",
+    "dificultad": "Fácil",
+    "aspectos_positivos": [
+      "gráficos",
+      "ambientación",
+      "historia",
+      "banda sonora",
+      "variedad de estilos"
+    ],
+    "aspectos_negativos": [
+      "inteligencia artificial",
+      "personalización",
+      "loot",
+      "IA enemiga",
+      "misiones"
+    ],
+    "problemas_tecnicos": [],
+    "horas_jugadas": 25.0,
+    "recomendacion_autor": "Condicional"
+  },
+  {
+    "id_resena": 13,
+    "Recomendado": "Recomendado",
+    "Recomendado_binario": 1,
+    "longitud_caracteres": 7564,
+    "nivel_informativo": "Alto",
+    "resumen": "Juego de tipo souls con combate basado en timing pero con problemas de lag en controles, progresión confusa, diseño críptico y necesidad constante de wiki para avanzar.",
+    "juego": "Elden Ring",
+    "sentimiento_general": "Negativo",
+    "jugabilidad": "Negativo",
+    "historia": "Negativo",
+    "graficos_ambientacion": "No mencionado",
+    "rendimiento_tecnico": "Negativo",
+    "relacion_calidad_precio": "No mencionado",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "combate",
+      "diseño de enemigos"
+    ],
+    "aspectos_negativos": [
+      "lag en controles",
+      "progresión confusa",
+      "diseño críptico",
+      "necesidad de wiki",
+      "dificultad injusta"
+    ],
+    "problemas_tecnicos": [
+      "input lag",
+      "crashes"
+    ],
+    "horas_jugadas": NaN,
+    "recomendacion_autor": "No"
+  },
+  {
+    "id_resena": 14,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 7536,
+    "nivel_informativo": "Alto",
+    "resumen": "Juego tipo souls con mundo abierto grande pero vacío, gráficos pobres, controles imprecisos, problemas de rendimiento y diseño que retrocede respecto a entregas anteriores.",
+    "juego": "Elden Ring",
+    "sentimiento_general": "Negativo",
+    "jugabilidad": "Negativo",
+    "historia": "No mencionado",
+    "graficos_ambientacion": "Negativo",
+    "rendimiento_tecnico": "Negativo",
+    "relacion_calidad_precio": "No mencionado",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "combate montado",
+      "jefes divertidos"
+    ],
+    "aspectos_negativos": [
+      "gráficos",
+      "rendimiento",
+      "controles",
+      "mundo vacío",
+      "diseño inconsistente"
+    ],
+    "problemas_tecnicos": [
+      "crashes",
+      "lag"
+    ],
+    "horas_jugadas": 5.0,
+    "recomendacion_autor": "No"
+  },
+  {
+    "id_resena": 15,
+    "Recomendado": "Recomendado",
+    "Recomendado_binario": 1,
+    "longitud_caracteres": 7527,
+    "nivel_informativo": "Alto",
+    "resumen": "Exploración libre y diseño de mundo impresionante con banda sonora épica y combates refinados aunque con repetición de enemigos y problemas de rendimiento en PC bajos.",
+    "juego": "Elden Ring",
+    "sentimiento_general": "Positivo",
+    "jugabilidad": "Positivo",
+    "historia": "Mixto",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "Mixto",
+    "relacion_calidad_precio": "No mencionado",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "exploración",
+      "banda sonora",
+      "combate",
+      "diseño de mundo",
+      "enemigos creativos"
+    ],
+    "aspectos_negativos": [
+      "repetición de enemigos",
+      "rendimiento",
+      "dungeons repetitivos"
+    ],
+    "problemas_tecnicos": [
+      "problemas de fps",
+      "stuttering"
+    ],
+    "horas_jugadas": 30.0,
+    "recomendacion_autor": "Sí"
+  },
+  {
+    "id_resena": 16,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 7517,
+    "nivel_informativo": "Alto",
+    "resumen": "Gran fan de la saga con altas expectativas decepcionado por bugs, pobre IA, escasa personalización, poca rejugabilidad y falta de actividades en ciudad; música y historia son puntos positivos.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Negativo",
+    "jugabilidad": "Negativo",
+    "historia": "Positivo",
+    "graficos_ambientacion": "No mencionado",
+    "rendimiento_tecnico": "Negativo",
+    "relacion_calidad_precio": "Negativo",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "música",
+      "historia"
+    ],
+    "aspectos_negativos": [
+      "bugs",
+      "inteligencia artificial",
+      "personalización",
+      "rejugabilidad",
+      "actividades"
+    ],
+    "problemas_tecnicos": [
+      "bugs",
+      "problemas de rendimiento"
+    ],
+    "horas_jugadas": 58.0,
+    "recomendacion_autor": "No"
+  },
+  {
+    "id_resena": 17,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 7491,
+    "nivel_informativo": "Alto",
+    "resumen": "Cyberpunk 2077 presenta muchas ideas y sistemas incompletos o mal implementados, con problemas de jugabilidad, historia inconsistente y falta de personalización, resultando en una experiencia frustrante.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Negativo",
+    "jugabilidad": "Negativo",
+    "historia": "Negativo",
+    "graficos_ambientacion": "Mixto",
+    "rendimiento_tecnico": "No mencionado",
+    "relacion_calidad_precio": "No mencionado",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "ambientación",
+      "mundo abierto"
+    ],
+    "aspectos_negativos": [
+      "jugabilidad",
+      "historia",
+      "personalización",
+      "controles",
+      "diseño confuso"
+    ],
+    "problemas_tecnicos": [],
+    "horas_jugadas": NaN,
+    "recomendacion_autor": "No"
+  },
+  {
+    "id_resena": 18,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 7481,
+    "nivel_informativo": "Alto",
+    "resumen": "Historia y personajes muy buenos con gran narrativa pero el juego sufre bugs, pobre IA, conducción deficiente y falta de interactividad en la ciudad; recomienda esperar parches para disfrutarlo plenamente.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Mixto",
+    "jugabilidad": "Mixto",
+    "historia": "Positivo",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "Negativo",
+    "relacion_calidad_precio": "No mencionado",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "historia",
+      "personajes",
+      "banda sonora",
+      "gráficos"
+    ],
+    "aspectos_negativos": [
+      "bugs",
+      "IA",
+      "conducción",
+      "interactividad",
+      "rendimiento"
+    ],
+    "problemas_tecnicos": [
+      "bugs",
+      "glitches",
+      "animaciones erráticas",
+      "problemas de conducción"
+    ],
+    "horas_jugadas": NaN,
+    "recomendacion_autor": "Condicional"
+  },
+  {
+    "id_resena": 19,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 7474,
+    "nivel_informativo": "Alto",
+    "resumen": "El juego tiene muchos bugs y problemas técnicos que afectan la experiencia, controles poco intuitivos y rendimiento irregular; la historia y jugabilidad son aceptables pero recomienda esperar mejoras.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Mixto",
+    "jugabilidad": "Mixto",
+    "historia": "Positivo",
+    "graficos_ambientacion": "Mixto",
+    "rendimiento_tecnico": "Negativo",
+    "relacion_calidad_precio": "No mencionado",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "historia",
+      "jugabilidad",
+      "gráficos"
+    ],
+    "aspectos_negativos": [
+      "bugs",
+      "rendimiento",
+      "controles",
+      "optimización"
+    ],
+    "problemas_tecnicos": [
+      "bugs variados",
+      "problemas de cámara",
+      "animaciones erróneas",
+      "duplicación de objetos",
+      "problemas de IA"
+    ],
+    "horas_jugadas": 10.0,
+    "recomendacion_autor": "Condicional"
+  },
+  {
+    "id_resena": 20,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 7440,
+    "nivel_informativo": "Alto",
+    "resumen": "El juego tiene gran potencial con buena historia, personajes y ambientación, pero falla en inmersión, personalización y actividades, además de bugs que espera se solucionen con parches.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Mixto",
+    "jugabilidad": "Mixto",
+    "historia": "Positivo",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "No mencionado",
+    "relacion_calidad_precio": "No mencionado",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "historia",
+      "personajes",
+      "ambientación",
+      "música"
+    ],
+    "aspectos_negativos": [
+      "inmersión",
+      "personalización",
+      "actividad limitada",
+      "bugs"
+    ],
+    "problemas_tecnicos": [],
+    "horas_jugadas": NaN,
+    "recomendacion_autor": "Condicional"
+  },
+  {
+    "id_resena": 21,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 7416,
+    "nivel_informativo": "Alto",
+    "resumen": "El juego no cumple las expectativas de un RPG abierto con impacto real de decisiones, inmersión y mundo dinámico; la historia es buena pero el resto es superficial y poco detallado.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Mixto",
+    "jugabilidad": "Negativo",
+    "historia": "Positivo",
+    "graficos_ambientacion": "Negativo",
+    "rendimiento_tecnico": "No mencionado",
+    "relacion_calidad_precio": "No mencionado",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "historia",
+      "narrativa"
+    ],
+    "aspectos_negativos": [
+      "inmersión",
+      "mundo vacío",
+      "IA",
+      "rejugabilidad",
+      "interactividad"
+    ],
+    "problemas_tecnicos": [],
+    "horas_jugadas": NaN,
+    "recomendacion_autor": "Condicional"
+  },
+  {
+    "id_resena": 22,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 7388,
+    "nivel_informativo": "Alto",
+    "resumen": "Narrativa con pocas opciones reales y personajes poco desarrollados el mundo pierde atractivo rápido y el juego sufre graves problemas técnicos y de rendimiento; conducción y combate mediocres; recomienda esperar parches y oferta.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Negativo",
+    "jugabilidad": "Mixto",
+    "historia": "Negativo",
+    "graficos_ambientacion": "Mixto",
+    "rendimiento_tecnico": "Negativo",
+    "relacion_calidad_precio": "Negativo",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "ambientación",
+      "animaciones armas",
+      "opciones de diálogo",
+      "mundo abierto"
+    ],
+    "aspectos_negativos": [
+      "bugs",
+      "rendimiento",
+      "conducción",
+      "historia",
+      "personajes"
+    ],
+    "problemas_tecnicos": [
+      "caídas de fps",
+      "microstuttering",
+      "crashes en cutscenes",
+      "pop-in de objetos",
+      "texturas que no cargan",
+      "fallos en físicas",
+      "animaciones con clipping"
+    ],
+    "horas_jugadas": 5.0,
+    "recomendacion_autor": "No"
+  },
+  {
+    "id_resena": 23,
+    "Recomendado": "Recomendado",
+    "Recomendado_binario": 1,
+    "longitud_caracteres": 7380,
+    "nivel_informativo": "Alto",
+    "resumen": "Gran ambientación y personajes atractivos con historia envolvente; rendimiento limitado en hardware modesto; conducción frustrante y ciudad difícil de memorizar; algunos glitches gráficos sin impacto grave.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Positivo",
+    "jugabilidad": "Positivo",
+    "historia": "Positivo",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "Mixto",
+    "relacion_calidad_precio": "Positivo",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "ambientación",
+      "personajes",
+      "historia",
+      "mecánicas",
+      "banda sonora"
+    ],
+    "aspectos_negativos": [
+      "conducción",
+      "glitches gráficos",
+      "navegación ciudad"
+    ],
+    "problemas_tecnicos": [
+      "glitches gráficos",
+      "npc atravesando objetos",
+      "vehículos mal aparcados"
+    ],
+    "horas_jugadas": 40.0,
+    "recomendacion_autor": "Sí"
+  },
+  {
+    "id_resena": 24,
+    "Recomendado": "Recomendado",
+    "Recomendado_binario": 1,
+    "longitud_caracteres": 7365,
+    "nivel_informativo": "Alto",
+    "resumen": "Juego con atmósfera inmersiva y personajes bien escritos; buena jugabilidad y banda sonora; problemas con marketing engañoso, bugs visuales y rendimiento inicial pobre pero mejorado con parches.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Positivo",
+    "jugabilidad": "Positivo",
+    "historia": "Positivo",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "Mixto",
+    "relacion_calidad_precio": "Positivo",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "ambientación",
+      "personajes",
+      "historia",
+      "banda sonora",
+      "jugabilidad"
+    ],
+    "aspectos_negativos": [
+      "bugs visuales",
+      "marketing engañoso",
+      "rendimiento inicial"
+    ],
+    "problemas_tecnicos": [
+      "bugs visuales",
+      "crashes",
+      "animaciones erráticas"
+    ],
+    "horas_jugadas": 200.0,
+    "recomendacion_autor": "Sí"
+  },
+  {
+    "id_resena": 25,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 7363,
+    "nivel_informativo": "Alto",
+    "resumen": "Visualmente impresionante con buena atmósfera y misiones secundarias destacadas; inteligencia artificial pobre y sistema policial deficiente; conducción y mecánicas mejorables; historia finita y contenido recortado; bugs y optimización pendientes.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Mixto",
+    "jugabilidad": "Mixto",
+    "historia": "Positivo",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "Negativo",
+    "relacion_calidad_precio": "Mixto",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "gráficos",
+      "atmósfera",
+      "misiones secundarias",
+      "historia",
+      "sistema de perks"
+    ],
+    "aspectos_negativos": [
+      "ai",
+      "bugs",
+      "conducción",
+      "contenido recortado",
+      "optimización"
+    ],
+    "problemas_tecnicos": [
+      "bugs",
+      "fallos en físicas",
+      "animaciones erráticas"
+    ],
+    "horas_jugadas": 100.0,
+    "recomendacion_autor": "Condicional"
+  },
+  {
+    "id_resena": 26,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 7300,
+    "nivel_informativo": "Alto",
+    "resumen": "Excelente banda sonora y personajes bien desarrollados; rendimiento variable según hardware; combate sólido pero desequilibrado; inteligencia artificial y conducción deficientes; contenido sexual limitado y censurado; bugs y contenido recortado evidentes.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Mixto",
+    "jugabilidad": "Mixto",
+    "historia": "Positivo",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "Mixto",
+    "relacion_calidad_precio": "Mixto",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "banda sonora",
+      "personajes",
+      "combate",
+      "gráficos",
+      "ambientación"
+    ],
+    "aspectos_negativos": [
+      "ai",
+      "bugs",
+      "conducción",
+      "contenido recortado",
+      "optimización"
+    ],
+    "problemas_tecnicos": [
+      "bugs",
+      "problemas de resolución",
+      "animaciones erráticas"
+    ],
+    "horas_jugadas": 219.0,
+    "recomendacion_autor": "Condicional"
+  },
+  {
+    "id_resena": 27,
+    "Recomendado": "Recomendado",
+    "Recomendado_binario": 1,
+    "longitud_caracteres": 7253,
+    "nivel_informativo": "Alto",
+    "resumen": "Cyberpunk 2077 ofrece historia, gráficos y música destacables pero está lastrado por numerosos bugs y finales decepcionantes; la conducción es mala y la jugabilidad limitada en opciones de diálogo.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Mixto",
+    "jugabilidad": "Mixto",
+    "historia": "Mixto",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "Negativo",
+    "relacion_calidad_precio": "No mencionado",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "historia",
+      "gráficos",
+      "banda sonora",
+      "mundo abierto",
+      "personajes"
+    ],
+    "aspectos_negativos": [
+      "bugs",
+      "finales decepcionantes",
+      "conducción",
+      "diálogos limitados"
+    ],
+    "problemas_tecnicos": [
+      "crashes",
+      "glitches",
+      "bugs de guardado"
+    ],
+    "horas_jugadas": NaN,
+    "recomendacion_autor": "Sí"
+  },
+  {
+    "id_resena": 28,
+    "Recomendado": "Recomendado",
+    "Recomendado_binario": 1,
+    "longitud_caracteres": 7244,
+    "nivel_informativo": "Alto",
+    "resumen": "Cyberpunk 2077 es un RPG con mundo abierto interesante y momentos divertidos pero afectado por bugs frecuentes, incoherencias narrativas y falta de innovación; la experiencia es irregular y agotadora.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Mixto",
+    "jugabilidad": "Mixto",
+    "historia": "Negativo",
+    "graficos_ambientacion": "Mixto",
+    "rendimiento_tecnico": "Negativo",
+    "relacion_calidad_precio": "No mencionado",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "mundo abierto",
+      "exploración",
+      "personajes",
+      "libertad"
+    ],
+    "aspectos_negativos": [
+      "bugs",
+      "narrativa incoherente",
+      "falta de innovación",
+      "control"
+    ],
+    "problemas_tecnicos": [
+      "glitches",
+      "fallos gráficos",
+      "bugs de físicas"
+    ],
+    "horas_jugadas": 60.0,
+    "recomendacion_autor": "No"
+  },
+  {
+    "id_resena": 29,
+    "Recomendado": "Recomendado",
+    "Recomendado_binario": 1,
+    "longitud_caracteres": 7150,
+    "nivel_informativo": "Alto",
+    "resumen": "Skyrim Special Edition mejora gráficos y rendimiento respecto al original, mantiene su enorme mundo abierto y libertad, pero conserva animaciones pobres y diseño narrativo simple.",
+    "juego": "The Elder Scrolls V Skyrim Special Edition",
+    "sentimiento_general": "Positivo",
+    "jugabilidad": "Positivo",
+    "historia": "Mixto",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "Positivo",
+    "relacion_calidad_precio": "Positivo",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "mundo abierto",
+      "libertad",
+      "gráficos",
+      "rendimiento",
+      "mods"
+    ],
+    "aspectos_negativos": [
+      "animaciones",
+      "voz",
+      "diseño narrativo",
+      "diálogos"
+    ],
+    "problemas_tecnicos": [
+      "ninguno mencionado"
+    ],
+    "horas_jugadas": NaN,
+    "recomendacion_autor": "Sí"
+  },
+  {
+    "id_resena": 30,
+    "Recomendado": "Recomendado",
+    "Recomendado_binario": 1,
+    "longitud_caracteres": 7148,
+    "nivel_informativo": "Alto",
+    "resumen": "Elden Ring ofrece un vasto mundo abierto con combate desafiante y buena historia, pero sufre de contenido reciclado, jefes poco inspirados y problemas técnicos al lanzamiento.",
+    "juego": "Elden Ring",
+    "sentimiento_general": "Mixto",
+    "jugabilidad": "Mixto",
+    "historia": "Positivo",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "Mixto",
+    "relacion_calidad_precio": "No mencionado",
+    "dificultad": "Equilibrado",
+    "aspectos_positivos": [
+      "combate",
+      "historia",
+      "mundo abierto",
+      "gráficos",
+      "banda sonora"
+    ],
+    "aspectos_negativos": [
+      "contenido reciclado",
+      "jefes aburridos",
+      "bugs",
+      "parches problemáticos"
+    ],
+    "problemas_tecnicos": [
+      "crashes",
+      "bugs",
+      "problemas de rendimiento"
+    ],
+    "horas_jugadas": NaN,
+    "recomendacion_autor": "Condicional"
+  },
+  {
+    "id_resena": 31,
+    "Recomendado": "Recomendado",
+    "Recomendado_binario": 1,
+    "longitud_caracteres": 7124,
+    "nivel_informativo": "Alto",
+    "resumen": "Cyberpunk 2077 destaca en diseño, gráficos, personajes y música, pero decepciona en jugabilidad, personalización limitada y numerosos bugs; recomienda jugar tras parches y sin expectativas altas.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Mixto",
+    "jugabilidad": "Mixto",
+    "historia": "Positivo",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "Negativo",
+    "relacion_calidad_precio": "No mencionado",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "diseño",
+      "gráficos",
+      "personajes",
+      "música",
+      "historia"
+    ],
+    "aspectos_negativos": [
+      "bugs",
+      "jugabilidad aburrida",
+      "personalización limitada",
+      "optimización"
+    ],
+    "problemas_tecnicos": [
+      "bugs",
+      "glitches",
+      "problemas de rendimiento"
+    ],
+    "horas_jugadas": NaN,
+    "recomendacion_autor": "Condicional"
+  },
+  {
+    "id_resena": 32,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 7071,
+    "nivel_informativo": "Alto",
+    "resumen": "Combate agresivo y diseño cuestionable en Elden Ring con problemas técnicos graves en modo cooperativo y PvP; juego ambicioso pero frustrante y mal optimizado.",
+    "juego": "Elden Ring",
+    "sentimiento_general": "Mixto",
+    "jugabilidad": "Negativo",
+    "historia": "No mencionado",
+    "graficos_ambientacion": "No mencionado",
+    "rendimiento_tecnico": "Negativo",
+    "relacion_calidad_precio": "No mencionado",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "ambición",
+      "mundo abierto"
+    ],
+    "aspectos_negativos": [
+      "combate",
+      "diseño de jefes",
+      "conexión en coop",
+      "lag pvp",
+      "input lag",
+      "optimización"
+    ],
+    "problemas_tecnicos": [
+      "desconexiones en coop",
+      "lag en pvp",
+      "caídas de fps",
+      "input lag",
+      "cola de acciones"
+    ],
+    "horas_jugadas": NaN,
+    "recomendacion_autor": "No"
+  },
+  {
+    "id_resena": 33,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 7052,
+    "nivel_informativo": "Alto",
+    "resumen": "Cyberpunk 2077 con bugs graves, mundo vacío y misiones repetitivas; mecánicas poco intuitivas y falta de libertad en decisiones; decepcionante salvo por gráficos en PC.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Negativo",
+    "jugabilidad": "Negativo",
+    "historia": "Negativo",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "Negativo",
+    "relacion_calidad_precio": "Negativo",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "gráficos pc"
+    ],
+    "aspectos_negativos": [
+      "bugs",
+      "misiones repetitivas",
+      "mundo vacío",
+      "inteligencia artificial",
+      "jugabilidad pobre",
+      "falta de libertad"
+    ],
+    "problemas_tecnicos": [
+      "bugs que impiden completar misiones",
+      "teletransporte de vehículos",
+      "policías teletransportándose"
+    ],
+    "horas_jugadas": NaN,
+    "recomendacion_autor": "No"
+  },
+  {
+    "id_resena": 34,
+    "Recomendado": "Recomendado",
+    "Recomendado_binario": 1,
+    "longitud_caracteres": 7006,
+    "nivel_informativo": "Alto",
+    "resumen": "Cyberpunk 2077 mejoró tras parches, mundo inmersivo y detallado con buena historia y variedad de opciones; conducción rígida y UI confusa; bugs menores y buen soporte modding.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Positivo",
+    "jugabilidad": "Mixto",
+    "historia": "Positivo",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "Positivo",
+    "relacion_calidad_precio": "Positivo",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "mundo abierto",
+      "historia",
+      "ambientación",
+      "modding",
+      "relaciones"
+    ],
+    "aspectos_negativos": [
+      "conducción",
+      "interfaz",
+      "bugs menores",
+      "armas de asalto"
+    ],
+    "problemas_tecnicos": [
+      "caída a través del mapa"
+    ],
+    "horas_jugadas": 150.0,
+    "recomendacion_autor": "Sí"
+  },
+  {
+    "id_resena": 35,
+    "Recomendado": "Recomendado",
+    "Recomendado_binario": 1,
+    "longitud_caracteres": 6963,
+    "nivel_informativo": "Alto",
+    "resumen": "Cyberpunk 2077 en PC ofrece historia y misiones bien escritas pero gameplay pobre, mundo vacío y conducción mala; consola desastre; optimización deficiente.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Mixto",
+    "jugabilidad": "Negativo",
+    "historia": "Positivo",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "Mixto",
+    "relacion_calidad_precio": "Negativo",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "historia",
+      "misiones opcionales",
+      "gráficos"
+    ],
+    "aspectos_negativos": [
+      "jugabilidad",
+      "mundo vacío",
+      "conducción",
+      "optimización"
+    ],
+    "problemas_tecnicos": [
+      "optimización deficiente"
+    ],
+    "horas_jugadas": NaN,
+    "recomendacion_autor": "Condicional"
+  },
+  {
+    "id_resena": 36,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 6912,
+    "nivel_informativo": "Alto",
+    "resumen": "Cyberpunk 2077 decepciona por marketing engañoso y falta de innovación; buena narrativa y misiones secundarias; mundo poco vivo y jugabilidad promedio.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Mixto",
+    "jugabilidad": "Mixto",
+    "historia": "Positivo",
+    "graficos_ambientacion": "Mixto",
+    "rendimiento_tecnico": "Mixto",
+    "relacion_calidad_precio": "No mencionado",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "narrativa",
+      "misiones secundarias",
+      "escritura"
+    ],
+    "aspectos_negativos": [
+      "marketing engañoso",
+      "mundo vacío",
+      "jugabilidad promedio",
+      "optimización"
+    ],
+    "problemas_tecnicos": [
+      "bugs",
+      "optimización"
+    ],
+    "horas_jugadas": NaN,
+    "recomendacion_autor": "Condicional"
+  },
+  {
+    "id_resena": 37,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 6896,
+    "nivel_informativo": "Medio",
+    "resumen": "El juego presenta graves problemas técnicos y de rendimiento, además de una ejecución mediocre que no cumple con la esencia del género cyberpunk ni con las expectativas generadas.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Negativo",
+    "jugabilidad": "Mixto",
+    "historia": "Mixto",
+    "graficos_ambientacion": "Negativo",
+    "rendimiento_tecnico": "Negativo",
+    "relacion_calidad_precio": "Negativo",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "historia",
+      "actuación de voz"
+    ],
+    "aspectos_negativos": [
+      "bugs",
+      "rendimiento",
+      "falta de profundidad",
+      "mecánicas incompletas",
+      "optimización"
+    ],
+    "problemas_tecnicos": [
+      "bugs frecuentes",
+      "mecánicas incompletas",
+      "inteligencia artificial deficiente",
+      "texturas y modelos con popping"
+    ],
+    "horas_jugadas": NaN,
+    "recomendacion_autor": "No"
+  },
+  {
+    "id_resena": 38,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 6885,
+    "nivel_informativo": "Alto",
+    "resumen": "Juego con buena historia y personajes profundos pero con problemas técnicos, bugs, mundo poco inmersivo y elementos de rol limitados; recomendable solo en oferta.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Mixto",
+    "jugabilidad": "Mixto",
+    "historia": "Positivo",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "Negativo",
+    "relacion_calidad_precio": "Negativo",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "historia",
+      "personajes",
+      "banda sonora",
+      "jugabilidad"
+    ],
+    "aspectos_negativos": [
+      "bugs",
+      "rendimiento",
+      "mundo poco inmersivo",
+      "elementos de rol limitados",
+      "precio"
+    ],
+    "problemas_tecnicos": [
+      "caídas de fps",
+      "bugs menores",
+      "problemas con rtx"
+    ],
+    "horas_jugadas": NaN,
+    "recomendacion_autor": "Condicional"
+  },
+  {
+    "id_resena": 39,
+    "Recomendado": "Recomendado",
+    "Recomendado_binario": 1,
+    "longitud_caracteres": 6876,
+    "nivel_informativo": "Alto",
+    "resumen": "Juego divertido y jugable con buena historia y múltiples finales, pero con bugs menores, problemas de inventario y errores de IA que necesitan ser corregidos.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Mixto",
+    "jugabilidad": "Positivo",
+    "historia": "Positivo",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "Mixto",
+    "relacion_calidad_precio": "Positivo",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "historia",
+      "múltiples finales",
+      "jugabilidad",
+      "gráficos",
+      "ambientación"
+    ],
+    "aspectos_negativos": [
+      "bugs",
+      "problemas de inventario",
+      "inteligencia artificial",
+      "errores de animación"
+    ],
+    "problemas_tecnicos": [
+      "bugs de animación",
+      "límite de munición",
+      "problemas de inventario",
+      "IA que se bloquea"
+    ],
+    "horas_jugadas": 60.0,
+    "recomendacion_autor": "Condicional"
+  },
+  {
+    "id_resena": 40,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 6820,
+    "nivel_informativo": "Alto",
+    "resumen": "Juego con gran detalle artístico y narrativa rica pero con numerosos bugs, problemas técnicos y sistemas incompletos; gran potencial no realizado aún.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Mixto",
+    "jugabilidad": "Mixto",
+    "historia": "Positivo",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "Negativo",
+    "relacion_calidad_precio": "Positivo",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "gráficos",
+      "historia",
+      "ambientación",
+      "detalles artísticos"
+    ],
+    "aspectos_negativos": [
+      "bugs",
+      "problemas técnicos",
+      "sistemas incompletos",
+      "navegación",
+      "equilibrio de armas"
+    ],
+    "problemas_tecnicos": [
+      "bugs",
+      "problemas de navegación",
+      "problemas con ray tracing",
+      "fallos de IA"
+    ],
+    "horas_jugadas": 249.0,
+    "recomendacion_autor": "Condicional"
+  },
+  {
+    "id_resena": 41,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 6787,
+    "nivel_informativo": "Alto",
+    "resumen": "Mundo abierto con mucha cantidad pero poco contenido significativo, diseño de niveles pobre y misiones confusas; combate y sistema de armas son lo más destacable.",
+    "juego": "Elden Ring",
+    "sentimiento_general": "Mixto",
+    "jugabilidad": "Mixto",
+    "historia": "Negativo",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "Positivo",
+    "relacion_calidad_precio": "No mencionado",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "sistema de armas",
+      "variedad de builds",
+      "dirección artística",
+      "combate"
+    ],
+    "aspectos_negativos": [
+      "mundo vacío",
+      "diseño de niveles pobre",
+      "misiones confusas",
+      "IA",
+      "contenido repetitivo"
+    ],
+    "problemas_tecnicos": [],
+    "horas_jugadas": NaN,
+    "recomendacion_autor": "Condicional"
+  },
+  {
+    "id_resena": 42,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 6770,
+    "nivel_informativo": "Alto",
+    "resumen": "Fan de cdpr decepcionado por cyberpunk 2077 con bugs, mala optimización, física y conducción pobres, falta de personalización y problemas técnicos; recomienda comprar solo en oferta y tras parches.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Negativo",
+    "jugabilidad": "Negativo",
+    "historia": "Positivo",
+    "graficos_ambientacion": "Mixto",
+    "rendimiento_tecnico": "Negativo",
+    "relacion_calidad_precio": "Negativo",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "historia",
+      "personajes",
+      "modelos de personajes"
+    ],
+    "aspectos_negativos": [
+      "bugs",
+      "optimización",
+      "física",
+      "conducción",
+      "personalización"
+    ],
+    "problemas_tecnicos": [
+      "npc desaparecen",
+      "loot atascado",
+      "arma sin opción de mejora",
+      "audio volumen inconsistente"
+    ],
+    "horas_jugadas": NaN,
+    "recomendacion_autor": "Condicional"
+  },
+  {
+    "id_resena": 43,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 6755,
+    "nivel_informativo": "Alto",
+    "resumen": "Skyrim criticado por combate repetitivo, historia poco impactante, misiones y facciones poco profundas y falta de innovación respecto a juegos anteriores.",
+    "juego": "Skyrim",
+    "sentimiento_general": "Negativo",
+    "jugabilidad": "Negativo",
+    "historia": "Negativo",
+    "graficos_ambientacion": "No mencionado",
+    "rendimiento_tecnico": "No mencionado",
+    "relacion_calidad_precio": "No mencionado",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [],
+    "aspectos_negativos": [
+      "combate repetitivo",
+      "historia superficial",
+      "misiones poco profundas",
+      "facciones poco relevantes",
+      "falta de innovación"
+    ],
+    "problemas_tecnicos": [],
+    "horas_jugadas": NaN,
+    "recomendacion_autor": "No"
+  },
+  {
+    "id_resena": 44,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 6710,
+    "nivel_informativo": "Alto",
+    "resumen": "Cyberpunk 2077 con bugs visuales y de IA, mala optimización, historia poco atractiva y jugabilidad repetitiva; destaca atmósfera pero no recomienda en estado actual.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Negativo",
+    "jugabilidad": "Negativo",
+    "historia": "Negativo",
+    "graficos_ambientacion": "Mixto",
+    "rendimiento_tecnico": "Negativo",
+    "relacion_calidad_precio": "Negativo",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "atmósfera",
+      "mundo abierto"
+    ],
+    "aspectos_negativos": [
+      "bugs",
+      "optimización",
+      "inteligencia artificial",
+      "historia",
+      "jugabilidad repetitiva"
+    ],
+    "problemas_tecnicos": [
+      "npc flotando",
+      "npc atraviesan paredes",
+      "ai poco reactiva"
+    ],
+    "horas_jugadas": 4.0,
+    "recomendacion_autor": "No"
+  },
+  {
+    "id_resena": 45,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 6674,
+    "nivel_informativo": "Alto",
+    "resumen": "Elden Ring con mundo inmersivo y banda sonora excelente pero con mala optimización, jefes repetitivos y desequilibrados, y sistema de misiones confuso; no recomendado en estado actual.",
+    "juego": "Elden Ring",
+    "sentimiento_general": "Mixto",
+    "jugabilidad": "Mixto",
+    "historia": "Mixto",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "Negativo",
+    "relacion_calidad_precio": "No mencionado",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "mundo inmersivo",
+      "banda sonora",
+      "diseño de jefes iniciales"
+    ],
+    "aspectos_negativos": [
+      "optimización",
+      "jefes repetitivos",
+      "desequilibrio de dificultad",
+      "misiones confusas"
+    ],
+    "problemas_tecnicos": [
+      "caídas de fps",
+      "saltos de frames"
+    ],
+    "horas_jugadas": NaN,
+    "recomendacion_autor": "Condicional"
+  },
+  {
+    "id_resena": 46,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 6628,
+    "nivel_informativo": "Alto",
+    "resumen": "Cyberpunk 2077 con buena historia, personajes y detalles visuales pero con bugs de audio, mala optimización y sistema de habilidades poco impactante; recomienda esperar parches.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Mixto",
+    "jugabilidad": "Mixto",
+    "historia": "Positivo",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "Negativo",
+    "relacion_calidad_precio": "No mencionado",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "historia",
+      "personajes",
+      "detalles visuales",
+      "banda sonora"
+    ],
+    "aspectos_negativos": [
+      "bugs de audio",
+      "optimización",
+      "sistema de habilidades pobre"
+    ],
+    "problemas_tecnicos": [
+      "audio cortado",
+      "inconsistencias en voces"
+    ],
+    "horas_jugadas": 50.0,
+    "recomendacion_autor": "Condicional"
+  },
+  {
+    "id_resena": 47,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 6495,
+    "nivel_informativo": "Alto",
+    "resumen": "Gráficos impresionantes pero mundo poco inmersivo y repetitivo historia olvidable y personajes planos jugabilidad con mecánicas mejorables y bugs frecuentes rendimiento pobre no recomendado actualmente.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Negativo",
+    "jugabilidad": "Negativo",
+    "historia": "Negativo",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "Negativo",
+    "relacion_calidad_precio": "Negativo",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "gráficos",
+      "ambientación",
+      "misiones secundarias"
+    ],
+    "aspectos_negativos": [
+      "historia",
+      "personajes",
+      "inteligencia artificial",
+      "bugs",
+      "rendimiento"
+    ],
+    "problemas_tecnicos": [
+      "animaciones rotas",
+      "sonidos faltantes",
+      "crashes frecuentes",
+      "mal optimizado"
+    ],
+    "horas_jugadas": NaN,
+    "recomendacion_autor": "No"
+  },
+  {
+    "id_resena": 48,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 6398,
+    "nivel_informativo": "Alto",
+    "resumen": "Estética y atmósfera cyberpunk destacables pero juego inconsistente con identidad confusa historia lineal y repetitiva bugs frecuentes y marketing engañoso no recomendado ni siquiera en oferta.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Negativo",
+    "jugabilidad": "Mixto",
+    "historia": "Negativo",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "Negativo",
+    "relacion_calidad_precio": "Negativo",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "estética",
+      "ambientación",
+      "creador de personajes"
+    ],
+    "aspectos_negativos": [
+      "historia",
+      "repetitividad",
+      "bugs",
+      "marketing engañoso",
+      "personalización limitada"
+    ],
+    "problemas_tecnicos": [
+      "texturas no cargan",
+      "animaciones repetidas",
+      "npc flotantes",
+      "vehículos atravesando objetos",
+      "glitches visuales"
+    ],
+    "horas_jugadas": NaN,
+    "recomendacion_autor": "No"
+  },
+  {
+    "id_resena": 49,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 6391,
+    "nivel_informativo": "Alto",
+    "resumen": "Combate mejorado pero bosses mediocres y diseño de niveles pobre con repetición excesiva mundo subescalado y vacío pacing terrible experiencia decepcionante para fans de la saga.",
+    "juego": "Elden Ring",
+    "sentimiento_general": "Negativo",
+    "jugabilidad": "Negativo",
+    "historia": "No mencionado",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "No mencionado",
+    "relacion_calidad_precio": "No mencionado",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "combate",
+      "gráficos",
+      "diseño de jefes"
+    ],
+    "aspectos_negativos": [
+      "diseño de niveles",
+      "bosses repetidos",
+      "pacing",
+      "nivelación"
+    ],
+    "problemas_tecnicos": [],
+    "horas_jugadas": NaN,
+    "recomendacion_autor": "No"
+  },
+  {
+    "id_resena": 50,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 6371,
+    "nivel_informativo": "Alto",
+    "resumen": "Juego con buena jugabilidad y bosses pero plagado de crashes corrupción de guardados invasiones desequilibradas grind excesivo y bugs sin corregir que afectan la experiencia multijugador y calidad general.",
+    "juego": "Elden Ring",
+    "sentimiento_general": "Mixto",
+    "jugabilidad": "Positivo",
+    "historia": "No mencionado",
+    "graficos_ambientacion": "No mencionado",
+    "rendimiento_tecnico": "Negativo",
+    "relacion_calidad_precio": "No mencionado",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "jugabilidad",
+      "bosses"
+    ],
+    "aspectos_negativos": [
+      "bugs",
+      "crashes",
+      "corrupción de guardados",
+      "invasiones desequilibradas",
+      "grind"
+    ],
+    "problemas_tecnicos": [
+      "crashes",
+      "corrupción de guardado",
+      "congelamientos",
+      "caídas de fps"
+    ],
+    "horas_jugadas": 43.0,
+    "recomendacion_autor": "Condicional"
+  },
+  {
+    "id_resena": 51,
+    "Recomendado": "Recomendado",
+    "Recomendado_binario": 1,
+    "longitud_caracteres": 6346,
+    "nivel_informativo": "Alto",
+    "resumen": "Buen juego con sistema de progresión y áreas bien diseñadas pero armas con escalado problemático bosses divertidos pero con runbacks frustrantes y magia con poca variedad en algunos aspectos.",
+    "juego": "Elden Ring",
+    "sentimiento_general": "Positivo",
+    "jugabilidad": "Positivo",
+    "historia": "No mencionado",
+    "graficos_ambientacion": "No mencionado",
+    "rendimiento_tecnico": "No mencionado",
+    "relacion_calidad_precio": "No mencionado",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "progresión",
+      "diseño de áreas",
+      "magia",
+      "bosses",
+      "variedad de armas"
+    ],
+    "aspectos_negativos": [
+      "escalado de armas",
+      "runbacks",
+      "variedad mágica limitada"
+    ],
+    "problemas_tecnicos": [],
+    "horas_jugadas": NaN,
+    "recomendacion_autor": "Sí"
+  },
+  {
+    "id_resena": 52,
+    "Recomendado": "Recomendado",
+    "Recomendado_binario": 1,
+    "longitud_caracteres": 6340,
+    "nivel_informativo": "Alto",
+    "resumen": "Elden Ring ofrece gráficos impresionantes, jugabilidad variada y mundo lleno de secretos, pero sufre problemas técnicos, multiplayer inestable y dificultad desequilibrada; recomendable pese a sus fallos.",
+    "juego": "Elden Ring",
+    "sentimiento_general": "Mixto",
+    "jugabilidad": "Positivo",
+    "historia": "Positivo",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "Negativo",
+    "relacion_calidad_precio": "No mencionado",
+    "dificultad": "Difícil",
+    "aspectos_positivos": [
+      "gráficos",
+      "jugabilidad",
+      "mundo abierto",
+      "variedad de builds",
+      "jefes únicos"
+    ],
+    "aspectos_negativos": [
+      "bugs",
+      "multijugador inestable",
+      "dificultad desequilibrada",
+      "falta de pistas",
+      "meta desequilibrado"
+    ],
+    "problemas_tecnicos": [
+      "crashes",
+      "desconexiones en multijugador",
+      "caídas de fps"
+    ],
+    "horas_jugadas": NaN,
+    "recomendacion_autor": "Sí"
+  },
+  {
+    "id_resena": 53,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 6338,
+    "nivel_informativo": "Alto",
+    "resumen": "Elden Ring es divertido y con gran mundo y combate, pero peca de repetitivo, problemas de rendimiento, bugs, controles deficientes en PC y PvP desequilibrado; no es perfecto.",
+    "juego": "Elden Ring",
+    "sentimiento_general": "Mixto",
+    "jugabilidad": "Mixto",
+    "historia": "No mencionado",
+    "graficos_ambientacion": "No mencionado",
+    "rendimiento_tecnico": "Negativo",
+    "relacion_calidad_precio": "No mencionado",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "combate",
+      "mundo abierto",
+      "diseño de jefes",
+      "historia",
+      "pvp"
+    ],
+    "aspectos_negativos": [
+      "repetitividad",
+      "bugs",
+      "rendimiento",
+      "controles pc",
+      "pvp desequilibrado"
+    ],
+    "problemas_tecnicos": [
+      "pantallas de carga congeladas",
+      "problemas con shaders",
+      "problemas con cursor"
+    ],
+    "horas_jugadas": NaN,
+    "recomendacion_autor": "No indicado"
+  },
+  {
+    "id_resena": 54,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 6332,
+    "nivel_informativo": "Alto",
+    "resumen": "Cyberpunk 2077 tiene un mundo vibrante y buena música, pero su jugabilidad es torpe, sistema de perks aburrido, historia confusa y numerosos bugs; recomendable solo tras parches.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Mixto",
+    "jugabilidad": "Negativo",
+    "historia": "Mixto",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "Negativo",
+    "relacion_calidad_precio": "No mencionado",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "mundo abierto",
+      "banda sonora",
+      "ambientación",
+      "personajes",
+      "suspense"
+    ],
+    "aspectos_negativos": [
+      "bugs",
+      "jugabilidad torpe",
+      "sistema de perks",
+      "historia confusa",
+      "pacing"
+    ],
+    "problemas_tecnicos": [
+      "pérdida de guardado",
+      "objetos desaparecen",
+      "glitches visuales"
+    ],
+    "horas_jugadas": NaN,
+    "recomendacion_autor": "Condicional"
+  },
+  {
+    "id_resena": 55,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 6304,
+    "nivel_informativo": "Alto",
+    "resumen": "Cyberpunk 2077 tiene buena ambientación y personajes, pero la historia es irregular y la jugabilidad aburrida con builds poco divertidas y economía desequilibrada; no recomendado.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Negativo",
+    "jugabilidad": "Negativo",
+    "historia": "Mixto",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "No mencionado",
+    "relacion_calidad_precio": "No mencionado",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "ambientación",
+      "personajes",
+      "música",
+      "concepto"
+    ],
+    "aspectos_negativos": [
+      "jugabilidad aburrida",
+      "economía desequilibrada",
+      "builds poco divertidas",
+      "pacing",
+      "historia irregular"
+    ],
+    "problemas_tecnicos": [],
+    "horas_jugadas": NaN,
+    "recomendacion_autor": "No"
+  },
+  {
+    "id_resena": 56,
+    "Recomendado": "Recomendado",
+    "Recomendado_binario": 1,
+    "longitud_caracteres": 6295,
+    "nivel_informativo": "Alto",
+    "resumen": "Cyberpunk 2077 ofrece un mundo y personajes sólidos, pero sufre bugs, conducción y disparos deficientes, rpg limitado y final decepcionante; recomendable solo para quienes busquen historia.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Mixto",
+    "jugabilidad": "Negativo",
+    "historia": "Mixto",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "Negativo",
+    "relacion_calidad_precio": "No mencionado",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "mundo abierto",
+      "personajes",
+      "ambientación",
+      "historia",
+      "rpg"
+    ],
+    "aspectos_negativos": [
+      "bugs",
+      "conducción",
+      "gunplay",
+      "rpg limitado",
+      "final"
+    ],
+    "problemas_tecnicos": [
+      "bugs variados"
+    ],
+    "horas_jugadas": 56.0,
+    "recomendacion_autor": "Condicional"
+  },
+  {
+    "id_resena": 57,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 6250,
+    "nivel_informativo": "Alto",
+    "resumen": "Mejoras técnicas como estabilidad y distancia de dibujo, pero texturas pobres, bugs, falta de compatibilidad con mods y ausencia de creación de contenido; decepción y crítica a Bethesda.",
+    "juego": "Skyrim Special Edition",
+    "sentimiento_general": "Mixto",
+    "jugabilidad": "No mencionado",
+    "historia": "No mencionado",
+    "graficos_ambientacion": "Mixto",
+    "rendimiento_tecnico": "Negativo",
+    "relacion_calidad_precio": "Negativo",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "estabilidad",
+      "distancia de dibujo",
+      "mejora en lluvia",
+      "alt tab funcional"
+    ],
+    "aspectos_negativos": [
+      "texturas pobres",
+      "bugs",
+      "mod incompatibilidad",
+      "ausencia creación contenido",
+      "audio comprimido"
+    ],
+    "problemas_tecnicos": [
+      "crashes frecuentes"
+    ],
+    "horas_jugadas": NaN,
+    "recomendacion_autor": "No"
+  },
+  {
+    "id_resena": 58,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 6193,
+    "nivel_informativo": "Alto",
+    "resumen": "Ciudad impresionante y personajes bien desarrollados pero jugabilidad monótona, sistema de sigilo pobre, combate flojo y falta de consecuencias; historia y música olvidables.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Mixto",
+    "jugabilidad": "Negativo",
+    "historia": "Negativo",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "No mencionado",
+    "relacion_calidad_precio": "No mencionado",
+    "dificultad": "Difícil",
+    "aspectos_positivos": [
+      "ciudad detallada",
+      "personajes",
+      "inmersion"
+    ],
+    "aspectos_negativos": [
+      "jugabilidad monótona",
+      "sigilo pobre",
+      "combate flojo",
+      "música olvidable",
+      "falta de consecuencias"
+    ],
+    "problemas_tecnicos": [],
+    "horas_jugadas": 32.0,
+    "recomendacion_autor": "No"
+  },
+  {
+    "id_resena": 59,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 6138,
+    "nivel_informativo": "Alto",
+    "resumen": "Mundo inmersivo y personajes bien escritos con buena música y gráficos, pero con bugs, historia irregular y jugabilidad genérica; recomienda esperar oferta.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Mixto",
+    "jugabilidad": "Mixto",
+    "historia": "Mixto",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "Negativo",
+    "relacion_calidad_precio": "Negativo",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "mundo inmersivo",
+      "personajes",
+      "música",
+      "gráficos"
+    ],
+    "aspectos_negativos": [
+      "bugs",
+      "historia irregular",
+      "jugabilidad genérica",
+      "falta de pulido"
+    ],
+    "problemas_tecnicos": [
+      "bugs",
+      "glitches"
+    ],
+    "horas_jugadas": NaN,
+    "recomendacion_autor": "Condicional"
+  },
+  {
+    "id_resena": 60,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 6131,
+    "nivel_informativo": "Alto",
+    "resumen": "Muchas características prometidas ausentes o mal implementadas, IA y policía poco realistas, falta de profundidad en NPCs y sistemas; decepción general con el juego.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Negativo",
+    "jugabilidad": "Negativo",
+    "historia": "No mencionado",
+    "graficos_ambientacion": "Negativo",
+    "rendimiento_tecnico": "Negativo",
+    "relacion_calidad_precio": "No mencionado",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [],
+    "aspectos_negativos": [
+      "IA pobre",
+      "policía ineficaz",
+      "falta de contenido",
+      "promesas incumplidas",
+      "jugabilidad limitada"
+    ],
+    "problemas_tecnicos": [],
+    "horas_jugadas": NaN,
+    "recomendacion_autor": "No"
+  },
+  {
+    "id_resena": 61,
+    "Recomendado": "Recomendado",
+    "Recomendado_binario": 1,
+    "longitud_caracteres": 6131,
+    "nivel_informativo": "Alto",
+    "resumen": "Mundo enorme y detallado, excelente creación de personajes, buena música y gráficos, con algunos problemas menores en multijugador y balance; lanzamiento muy sólido.",
+    "juego": "Elden Ring",
+    "sentimiento_general": "Positivo",
+    "jugabilidad": "Positivo",
+    "historia": "No mencionado",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "Mixto",
+    "relacion_calidad_precio": "Positivo",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "mundo abierto",
+      "creación de personajes",
+      "música",
+      "gráficos",
+      "crafting"
+    ],
+    "aspectos_negativos": [
+      "problemas multijugador",
+      "balance pvp"
+    ],
+    "problemas_tecnicos": [
+      "desconexiones multijugador"
+    ],
+    "horas_jugadas": 300.0,
+    "recomendacion_autor": "Sí"
+  },
+  {
+    "id_resena": 62,
+    "Recomendado": "Recomendado",
+    "Recomendado_binario": 1,
+    "longitud_caracteres": 6108,
+    "nivel_informativo": "Alto",
+    "resumen": "Cyberpunk 2077 ofrece una historia y personajes atractivos con un mundo visualmente impresionante pero presenta bugs persistentes y una dificultad desequilibrada; recomendable en oferta.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Mixto",
+    "jugabilidad": "Positivo",
+    "historia": "Positivo",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "Negativo",
+    "relacion_calidad_precio": "Positivo",
+    "dificultad": "Fácil",
+    "aspectos_positivos": [
+      "historia",
+      "personajes",
+      "mundo abierto",
+      "gráficos",
+      "ambientación"
+    ],
+    "aspectos_negativos": [
+      "bugs",
+      "dificultad",
+      "rendimiento"
+    ],
+    "problemas_tecnicos": [
+      "bugs persistentes",
+      "fallos en físicas",
+      "animaciones extrañas"
+    ],
+    "horas_jugadas": NaN,
+    "recomendacion_autor": "Condicional"
+  },
+  {
+    "id_resena": 63,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 6105,
+    "nivel_informativo": "Alto",
+    "resumen": "El juego tiene muchos bugs y carece de características prometidas, con personalización limitada y problemas en mecánicas; buen rendimiento y gráficos, pero no recomendable en su estado actual.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Negativo",
+    "jugabilidad": "Negativo",
+    "historia": "Mixto",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "Positivo",
+    "relacion_calidad_precio": "Negativo",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "gráficos",
+      "rendimiento",
+      "atmósfera"
+    ],
+    "aspectos_negativos": [
+      "bugs",
+      "personalización limitada",
+      "características faltantes",
+      "mecánicas pobres"
+    ],
+    "problemas_tecnicos": [
+      "bugs de audio",
+      "problemas con sigilo",
+      "vehículos poco realistas"
+    ],
+    "horas_jugadas": NaN,
+    "recomendacion_autor": "No"
+  },
+  {
+    "id_resena": 64,
+    "Recomendado": "Recomendado",
+    "Recomendado_binario": 1,
+    "longitud_caracteres": 6101,
+    "nivel_informativo": "Alto",
+    "resumen": "Cyberpunk 2077 ofrece una historia profunda, múltiples elecciones y gran rejugabilidad con buena ambientación y banda sonora, aunque presenta bugs y problemas de rendimiento en PCs antiguos.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Mixto",
+    "jugabilidad": "Positivo",
+    "historia": "Positivo",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "Negativo",
+    "relacion_calidad_precio": "Positivo",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "historia",
+      "elecciones",
+      "ambientación",
+      "banda sonora",
+      "rejugabilidad"
+    ],
+    "aspectos_negativos": [
+      "bugs",
+      "rendimiento",
+      "mecánicas subutilizadas",
+      "tareas tediosas"
+    ],
+    "problemas_tecnicos": [
+      "bugs que afectan misiones",
+      "problemas de optimización"
+    ],
+    "horas_jugadas": NaN,
+    "recomendacion_autor": "Sí"
+  },
+  {
+    "id_resena": 65,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 6086,
+    "nivel_informativo": "Alto",
+    "resumen": "Cyberpunk 2077 tiene gráficos y atmósfera destacables pero sufre bugs, mala IA, personalización limitada y conducción deficiente; no recomendable en su estado actual, mejor esperar parches.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Mixto",
+    "jugabilidad": "Mixto",
+    "historia": "Positivo",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "Negativo",
+    "relacion_calidad_precio": "Negativo",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "gráficos",
+      "atmósfera",
+      "historia"
+    ],
+    "aspectos_negativos": [
+      "bugs",
+      "IA pobre",
+      "personalización limitada",
+      "conducción"
+    ],
+    "problemas_tecnicos": [
+      "bugs visuales",
+      "objetos flotantes",
+      "problemas con NPCs"
+    ],
+    "horas_jugadas": 11.0,
+    "recomendacion_autor": "No"
+  },
+  {
+    "id_resena": 66,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 6045,
+    "nivel_informativo": "Alto",
+    "resumen": "Cyberpunk 2077 ofrece un mundo bello y narrativa sólida con buena música, pero está plagado de bugs, pobre personalización, IA deficiente y problemas de rendimiento; no recomendable actualmente.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Mixto",
+    "jugabilidad": "Mixto",
+    "historia": "Positivo",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "Negativo",
+    "relacion_calidad_precio": "Negativo",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "mundo abierto",
+      "historia",
+      "banda sonora",
+      "gráficos"
+    ],
+    "aspectos_negativos": [
+      "bugs",
+      "personalización",
+      "IA",
+      "rendimiento"
+    ],
+    "problemas_tecnicos": [
+      "glitches visuales",
+      "misiones bloqueadas",
+      "loops de audio"
+    ],
+    "horas_jugadas": 80.0,
+    "recomendacion_autor": "No"
+  },
+  {
+    "id_resena": 67,
+    "Recomendado": "Recomendado",
+    "Recomendado_binario": 1,
+    "longitud_caracteres": 6016,
+    "nivel_informativo": "Alto",
+    "resumen": "Historia y personajes destacados con mundo visualmente impresionante pero vacío y con IA pobre; bugs frecuentes y sistema policial deficiente; jugabilidad promedio con buen árbol de habilidades.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Mixto",
+    "jugabilidad": "Positivo",
+    "historia": "Positivo",
+    "graficos_ambientacion": "Mixto",
+    "rendimiento_tecnico": "Negativo",
+    "relacion_calidad_precio": "No mencionado",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "historia",
+      "personajes",
+      "gráficos",
+      "árbol de habilidades"
+    ],
+    "aspectos_negativos": [
+      "inteligencia artificial",
+      "bugs",
+      "policía",
+      "contenido vacío",
+      "personalización limitada"
+    ],
+    "problemas_tecnicos": [
+      "glitches",
+      "npjs que aparecen y desaparecen",
+      "coches volando",
+      "fallos en misiones"
+    ],
+    "horas_jugadas": 50.0,
+    "recomendacion_autor": "Condicional"
+  },
+  {
+    "id_resena": 68,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 5922,
+    "nivel_informativo": "Alto",
+    "resumen": "Historia pierde interés tras acto 2 con personajes poco desarrollados; sistemas RPG superficiales y sin impacto real; problemas de calidad de vida y recompensas que no escalan; sensación general de juego roto y decepcionante.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Negativo",
+    "jugabilidad": "Negativo",
+    "historia": "Negativo",
+    "graficos_ambientacion": "No mencionado",
+    "rendimiento_tecnico": "No mencionado",
+    "relacion_calidad_precio": "No mencionado",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [],
+    "aspectos_negativos": [
+      "historia",
+      "personajes",
+      "sistemas rpg",
+      "recompensas",
+      "calidad de vida"
+    ],
+    "problemas_tecnicos": [],
+    "horas_jugadas": 40.0,
+    "recomendacion_autor": "No"
+  },
+  {
+    "id_resena": 69,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 5858,
+    "nivel_informativo": "Alto",
+    "resumen": "Mundo y lore interesantes pero con poca interactividad y AI básica; decisiones sin consecuencias reales; combate decente pero con enemigos esponja; misiones secundarias poco atractivas y sistema RPG poco desarrollado.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Negativo",
+    "jugabilidad": "Mixto",
+    "historia": "Mixto",
+    "graficos_ambientacion": "No mencionado",
+    "rendimiento_tecnico": "No mencionado",
+    "relacion_calidad_precio": "No mencionado",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "historia",
+      "combate"
+    ],
+    "aspectos_negativos": [
+      "inteligencia artificial",
+      "interactividad",
+      "decisiones",
+      "misiones secundarias",
+      "sistemas rpg"
+    ],
+    "problemas_tecnicos": [],
+    "horas_jugadas": NaN,
+    "recomendacion_autor": "No"
+  },
+  {
+    "id_resena": 70,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 5855,
+    "nivel_informativo": "Alto",
+    "resumen": "Excelente diseño de mundo y variedad en combate; sin embargo, diseño de jefes repetitivo y frustrante que reduce la diversión y rejugabilidad; final decepcionante y sensación de explotación de mecánicas para avanzar.",
+    "juego": "Elden Ring",
+    "sentimiento_general": "Mixto",
+    "jugabilidad": "Mixto",
+    "historia": "No mencionado",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "No mencionado",
+    "relacion_calidad_precio": "No mencionado",
+    "dificultad": "Difícil",
+    "aspectos_positivos": [
+      "combate",
+      "diseño mundo",
+      "variedad melee",
+      "estética"
+    ],
+    "aspectos_negativos": [
+      "diseño jefes",
+      "repetición",
+      "final decepcionante",
+      "explotación mecánicas"
+    ],
+    "problemas_tecnicos": [],
+    "horas_jugadas": NaN,
+    "recomendacion_autor": "No"
+  },
+  {
+    "id_resena": 71,
+    "Recomendado": "Recomendado",
+    "Recomendado_binario": 1,
+    "longitud_caracteres": 5789,
+    "nivel_informativo": "Alto",
+    "resumen": "Historia y misiones bien elaboradas con múltiples opciones y finales; ciudad creíble y variada; combate disfrutable con muchas armas y estilos; música excelente; bugs y sistema policial rudimentario; conducción mejorable.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Positivo",
+    "jugabilidad": "Positivo",
+    "historia": "Positivo",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "Negativo",
+    "relacion_calidad_precio": "Positivo",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "historia",
+      "personajes",
+      "combate",
+      "armas",
+      "banda sonora"
+    ],
+    "aspectos_negativos": [
+      "bugs",
+      "policía",
+      "conducción",
+      "contenido recortado"
+    ],
+    "problemas_tecnicos": [],
+    "horas_jugadas": 150.0,
+    "recomendacion_autor": "Sí"
+  },
+  {
+    "id_resena": 72,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 5751,
+    "nivel_informativo": "Alto",
+    "resumen": "Elden Ring es visualmente impresionante y desafiante pero frustrante por su dificultad injusta, repetición de enemigos, misiones confusas sin registro y mundo vacío; la narrativa es pobre y el multijugador limitado.",
+    "juego": "Elden Ring",
+    "sentimiento_general": "Mixto",
+    "jugabilidad": "Negativo",
+    "historia": "Negativo",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "No mencionado",
+    "relacion_calidad_precio": "No mencionado",
+    "dificultad": "Difícil",
+    "aspectos_positivos": [
+      "diseño de criaturas",
+      "gráficos",
+      "mundo abierto"
+    ],
+    "aspectos_negativos": [
+      "dificultad injusta",
+      "misiones confusas",
+      "repetición de enemigos",
+      "narrativa pobre",
+      "multijugador limitado"
+    ],
+    "problemas_tecnicos": [],
+    "horas_jugadas": 88.0,
+    "recomendacion_autor": "No"
+  },
+  {
+    "id_resena": 73,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 5744,
+    "nivel_informativo": "Alto",
+    "resumen": "Cyberpunk 2077 tiene aspectos divertidos pero está claramente inacabado con conducción pésima, personalización limitada, combate poco satisfactorio, mala actuación de voz y narrativa predecible; no recomienda comprarlo aún.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Negativo",
+    "jugabilidad": "Negativo",
+    "historia": "Negativo",
+    "graficos_ambientacion": "No mencionado",
+    "rendimiento_tecnico": "No mencionado",
+    "relacion_calidad_precio": "Negativo",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "diversión intangible"
+    ],
+    "aspectos_negativos": [
+      "conducción mala",
+      "personalización limitada",
+      "combate pobre",
+      "actuación de voz mala",
+      "narrativa predecible"
+    ],
+    "problemas_tecnicos": [],
+    "horas_jugadas": 6.0,
+    "recomendacion_autor": "No"
+  },
+  {
+    "id_resena": 74,
+    "Recomendado": "Recomendado",
+    "Recomendado_binario": 1,
+    "longitud_caracteres": 5657,
+    "nivel_informativo": "Alto",
+    "resumen": "Elden Ring expande con éxito el estilo de FromSoftware a mundo abierto con variedad, diseño visual sobresaliente y lore interesante aunque con misiones poco claras y bugs; recomienda el juego y espera DLC futuros.",
+    "juego": "Elden Ring",
+    "sentimiento_general": "Positivo",
+    "jugabilidad": "Positivo",
+    "historia": "Positivo",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "Mixto",
+    "relacion_calidad_precio": "No mencionado",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "mundo abierto",
+      "diseño visual",
+      "lore",
+      "variedad de enemigos",
+      "jugabilidad"
+    ],
+    "aspectos_negativos": [
+      "misiones poco claras",
+      "bugs",
+      "lag en pvp"
+    ],
+    "problemas_tecnicos": [
+      "bugs en misiones",
+      "lag en pvp"
+    ],
+    "horas_jugadas": NaN,
+    "recomendacion_autor": "Sí"
+  },
+  {
+    "id_resena": 75,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 5617,
+    "nivel_informativo": "Alto",
+    "resumen": "Cyberpunk 2077 es una decepción total, un juego apresurado y mal hecho con mundo vacío, IA pobre, misiones aburridas y sin impacto real de decisiones; peor que muchos indies y no recomendable.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Negativo",
+    "jugabilidad": "Negativo",
+    "historia": "Negativo",
+    "graficos_ambientacion": "Negativo",
+    "rendimiento_tecnico": "Negativo",
+    "relacion_calidad_precio": "Negativo",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [],
+    "aspectos_negativos": [
+      "mundo vacío",
+      "inteligencia artificial pobre",
+      "misiones aburridas",
+      "decisiones sin impacto",
+      "bugs"
+    ],
+    "problemas_tecnicos": [
+      "bugs"
+    ],
+    "horas_jugadas": 12.0,
+    "recomendacion_autor": "No"
+  },
+  {
+    "id_resena": 76,
+    "Recomendado": "Recomendado",
+    "Recomendado_binario": 1,
+    "longitud_caracteres": 5607,
+    "nivel_informativo": "Alto",
+    "resumen": "Cyberpunk 2077 destaca por su ambientación y narrativa con personajes interesantes, aunque su jugabilidad es repetitiva y con bugs persistentes; recomienda jugarlo pese a sus fallos y espera mejoras futuras.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Positivo",
+    "jugabilidad": "Mixto",
+    "historia": "Positivo",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "Negativo",
+    "relacion_calidad_precio": "No mencionado",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "ambientación",
+      "narrativa",
+      "personajes",
+      "mundo abierto"
+    ],
+    "aspectos_negativos": [
+      "jugabilidad repetitiva",
+      "bugs persistentes"
+    ],
+    "problemas_tecnicos": [
+      "bugs"
+    ],
+    "horas_jugadas": NaN,
+    "recomendacion_autor": "Sí"
+  },
+  {
+    "id_resena": 77,
+    "Recomendado": "Recomendado",
+    "Recomendado_binario": 1,
+    "longitud_caracteres": 5573,
+    "nivel_informativo": "Alto",
+    "resumen": "Cyberpunk 2077 decepciona por bugs, sistemas incompletos y final apresurado aunque la historia y gráficos tienen momentos buenos; el juego prometía más y generó desconfianza.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Mixto",
+    "jugabilidad": "Mixto",
+    "historia": "Positivo",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "Negativo",
+    "relacion_calidad_precio": "Negativo",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "historia",
+      "gráficos",
+      "misiones secundarias"
+    ],
+    "aspectos_negativos": [
+      "bugs",
+      "sistemas incompletos",
+      "final apresurado",
+      "inteligencia artificial",
+      "controles"
+    ],
+    "problemas_tecnicos": [
+      "glitches gráficos",
+      "botón agacharse y saltar escena mismo",
+      "ia policía deficiente"
+    ],
+    "horas_jugadas": NaN,
+    "recomendacion_autor": "Condicional"
+  },
+  {
+    "id_resena": 78,
+    "Recomendado": "Recomendado",
+    "Recomendado_binario": 1,
+    "longitud_caracteres": 5516,
+    "nivel_informativo": "Alto",
+    "resumen": "The Witcher 3 ofrece una historia larga y profunda con muchas misiones y expansiones excelentes, gráficos y música destacables, aunque con algunos bugs menores y sin doblaje en castellano.",
+    "juego": "The Witcher 3 Wild Hunt",
+    "sentimiento_general": "Positivo",
+    "jugabilidad": "Positivo",
+    "historia": "Positivo",
+    "graficos_ambientacion": "Positivo",
+    "rendimiento_tecnico": "Mixto",
+    "relacion_calidad_precio": "Positivo",
+    "dificultad": "Difícil",
+    "aspectos_positivos": [
+      "historia",
+      "misiones secundarias",
+      "expansiones",
+      "gráficos",
+      "banda sonora"
+    ],
+    "aspectos_negativos": [
+      "bugs",
+      "falta doblaje castellano"
+    ],
+    "problemas_tecnicos": [
+      "desaparición interfaz",
+      "bugs menores"
+    ],
+    "horas_jugadas": 993.0,
+    "recomendacion_autor": "Sí"
+  },
+  {
+    "id_resena": 79,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 5458,
+    "nivel_informativo": "Alto",
+    "resumen": "Skyrim tiene un mundo enorme con muchas misiones pero la mayoría son repetitivas y poco interesantes, la historia y personajes son poco profundos y el combate y progresión se sienten grindy y poco motivadores.",
+    "juego": "The Elder Scrolls V Skyrim",
+    "sentimiento_general": "Negativo",
+    "jugabilidad": "Negativo",
+    "historia": "Negativo",
+    "graficos_ambientacion": "No mencionado",
+    "rendimiento_tecnico": "No mencionado",
+    "relacion_calidad_precio": "No mencionado",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "mundo abierto",
+      "cantidad de contenido"
+    ],
+    "aspectos_negativos": [
+      "misiones repetitivas",
+      "historia pobre",
+      "personajes planos",
+      "combate aburrido",
+      "progresión grindy"
+    ],
+    "problemas_tecnicos": [],
+    "horas_jugadas": NaN,
+    "recomendacion_autor": "No"
+  },
+  {
+    "id_resena": 80,
+    "Recomendado": "No recomendado",
+    "Recomendado_binario": 0,
+    "longitud_caracteres": 5421,
+    "nivel_informativo": "Alto",
+    "resumen": "Cyberpunk 2077 presenta una trama lenta y tediosa, gunplay mediocre, muchos bugs y problemas técnicos graves, rendimiento pobre incluso en hardware potente, aunque la banda sonora y actuaciones son destacables.",
+    "juego": "Cyberpunk 2077",
+    "sentimiento_general": "Negativo",
+    "jugabilidad": "Negativo",
+    "historia": "Negativo",
+    "graficos_ambientacion": "Negativo",
+    "rendimiento_tecnico": "Negativo",
+    "relacion_calidad_precio": "Negativo",
+    "dificultad": "No Mencionado",
+    "aspectos_positivos": [
+      "banda sonora",
+      "actuaciones"
+    ],
+    "aspectos_negativos": [
+      "bugs",
+      "rendimiento",
+      "gunplay",
+      "trama lenta",
+      "físicas pobres"
+    ],
+    "problemas_tecnicos": [
+      "crasheos",
+      "npc atrapados",
+      "texturas difuminadas",
+      "fps bajos",
+      "fallos de iluminación"
+    ],
+    "horas_jugadas": 310.0,
+    "recomendacion_autor": "No"
+  }
+]

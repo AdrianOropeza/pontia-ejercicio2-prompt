@@ -1,0 +1,11 @@
+# Credenciales
+.env
+
+# Entorno y caché de Python/Jupyter
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Archivos de sistema de macOS
+.DS_Store
+DS_Store

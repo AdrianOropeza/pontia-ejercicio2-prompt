@@ -1,0 +1,482 @@
+{
+ "1": {
+  "id_resena": 1,
+  "motivo": "Texto repetitivo sin sentido ni relación con el juego.",
+  "categoria": "Spam o sin sentido",
+  "nivel_informativo": "Nulo"
+ },
+ "2": {
+  "id_resena": 2,
+  "motivo": "Analiza profundamente el diseño urbano, inmersión y rol, comparándolo con otros juegos.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "3": {
+  "id_resena": 3,
+  "motivo": "Valora la historia, misiones, expectativas, rendimiento y conducción con buenos argumentos.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "4": {
+  "id_resena": 4,
+  "motivo": "Analiza la dificultad, diseño de enemigos, rendimiento, combates y mecánicas de Elden Ring.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "5": {
+  "id_resena": 5,
+  "motivo": "Valora combate, variedad, narrativa ambiental, rendimiento y diseño de mundo de Elden Ring.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "6": {
+  "id_resena": 6,
+  "motivo": "Discute las trayectorias de vida (lifepaths), banda sonora, narrativa y rejugabilidad de Cyberpunk.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "7": {
+  "id_resena": 7,
+  "motivo": "Critica la IA de los NPC, la policía, los recortes de contenido y el rendimiento del mundo abierto.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "8": {
+  "id_resena": 8,
+  "motivo": "Analiza el sistema de combate, la dificultad, el diseño de jefes y la exploración de Elden Ring.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "9": {
+  "id_resena": 9,
+  "motivo": "Describe detalladamente la atmósfera, los distritos, el diseño visual y la trama principal.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "10": {
+  "id_resena": 10,
+  "motivo": "Compara Cyberpunk con los juegos de Bethesda, valorando los elementos RPG y los bugs.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "11": {
+  "id_resena": 11,
+  "motivo": "Desglosa aspectos específicos como la conducción, vehículos, sigilo, bugs y misiones.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "12": {
+  "id_resena": 12,
+  "motivo": "Valora gráficos, diseño de mundo, personajes, narrativa y el modo foto de Cyberpunk.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "13": {
+  "id_resena": 13,
+  "motivo": "Analiza el sistema de combate basado en timing, la respuesta de controles y el diseño de jefes.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "14": {
+  "id_resena": 14,
+  "motivo": "Critica la movilidad, el rendimiento visual, los jefes y el diseño de mundo de Elden Ring.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "15": {
+  "id_resena": 15,
+  "motivo": "Valora la banda sonora, la exploración, la topografía y el diseño de misiones sin guías.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "16": {
+  "id_resena": 16,
+  "motivo": "Detalla los retrasos, la falta de IA, los problemas de rendimiento y las promesas incumplidas.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "17": {
+  "id_resena": 17,
+  "motivo": "Analiza la falta de sistemas interactivos, el transporte, la gestión de inventario y los elementos RPG.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "18": {
+  "id_resena": 18,
+  "motivo": "Valora la historia, los personajes secundarios, los diálogos, la policía y los bugs de Cyberpunk.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "19": {
+  "id_resena": 19,
+  "motivo": "Describe una gran variedad de bugs visuales y de jugabilidad, además de los controles de teclado.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "20": {
+  "id_resena": 20,
+  "motivo": "Analiza el potencial del juego, la historia, la construcción del mundo y la falta de personalización e inmersión.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "21": {
+  "id_resena": 21,
+  "motivo": "Valora mecánicas de rol, personalización, mundo abierto, inmersión y da recomendación sobre parches.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "22": {
+  "id_resena": 22,
+  "motivo": "Analiza en detalle la narrativa, el diseño de misiones, los diálogos y los problemas técnicos.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "23": {
+  "id_resena": 23,
+  "motivo": "Detalla rendimiento en hardware modesto, configuración gráfica, estabilidad a 30fps y ambientación.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "24": {
+  "id_resena": 24,
+  "motivo": "Valora combate, sistema de ventajas, implantes cibernéticos, ambientación y la dirección futura del juego.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "25": {
+  "id_resena": 25,
+  "motivo": "Critica el minimapa, la optimización y físicas, alabando el apartado visual, atmósfera y misiones secundarias.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "26": {
+  "id_resena": 26,
+  "motivo": "Evalúa banda sonora, misiones de personajes principales, rendimiento técnico y toma de decisiones en misiones.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "27": {
+  "id_resena": 27,
+  "motivo": "Analiza historia, finales, diseño de los distritos de la ciudad y cómo los bugs afectan la experiencia.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "28": {
+  "id_resena": 28,
+  "motivo": "Reflexiona sobre expectativas, marketing, jugabilidad de mundo abierto y problemas de control de calidad.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "29": {
+  "id_resena": 29,
+  "motivo": "Valora el tamaño del mundo, gráficos, mods, misiones secundarias, animación y diseño de misiones.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "30": {
+  "id_resena": 30,
+  "motivo": "Enumera aspectos positivos y negativos de Elden Ring: combate, rendimiento, mundo abierto y rejugabilidad.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "31": {
+  "id_resena": 31,
+  "motivo": "Analiza el diseño artístico, gráficos con RTX, personajes y problemas técnicos del juego.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "32": {
+  "id_resena": 32,
+  "motivo": "Critica detalladamente el diseño de combate, el comportamiento de los jefes y el sistema de posturas.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "33": {
+  "id_resena": 33,
+  "motivo": "Valora fallos de la IA, diseño del mapa abierto, misiones de recuadro y sigilo.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "34": {
+  "id_resena": 34,
+  "motivo": "Comenta los bugs visuales, la física de conducción de vehículos frente a las motos y la inmersión.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "35": {
+  "id_resena": 35,
+  "motivo": "Analiza la escasez de elementos RPG, el enfoque como shooter de mundo abierto y la calidad de los personajes.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "36": {
+  "id_resena": 36,
+  "motivo": "Habla principalmente sobre el marketing excesivo, las promesas incumplidas y el estado de lanzamiento del juego.",
+  "categoria": "Opinión genérica",
+  "nivel_informativo": "Bajo"
+ },
+ "37": {
+  "id_resena": 37,
+  "motivo": "Critica la falta de verdadera estética cyberpunk en el diseño de mundo y compara superficialmente el género.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Medio"
+ },
+ "38": {
+  "id_resena": 38,
+  "motivo": "Detalla rendimiento en tarjetas gráficas específicas, caídas de FPS, bugs menores y la escritura.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "39": {
+  "id_resena": 39,
+  "motivo": "Valora límites de inventario, misiones secundarias, la densidad de NPCs y la relación calidad-precio.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "40": {
+  "id_resena": 40,
+  "motivo": "Analiza la atención al detalle artístico, el diseño hueco de las misiones secundarias y la gestión del estudio.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "41": {
+  "id_resena": 41,
+  "motivo": "Analiza en detalle el sistema de combate, mundo abierto, misiones y rendimiento con argumentos sólidos.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "42": {
+  "id_resena": 42,
+  "motivo": "Revisa la trayectoria de CDPR, jugabilidad de sus juegos, rendimiento y bugs de Cyberpunk.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "43": {
+  "id_resena": 43,
+  "motivo": "Critica aspectos específicos de Skyrim como el combate, la superficialidad de las decisiones y la narrativa.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "44": {
+  "id_resena": 44,
+  "motivo": "Enumera fallos de optimización, bugs visuales, rendimiento en hardware específico y problemas de misiones.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "45": {
+  "id_resena": 45,
+  "motivo": "Valora diseño de mapa, gráficos, sonido y dificultad, detallando problemas graves de optimización.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "46": {
+  "id_resena": 46,
+  "motivo": "Detalla rendimiento con hardware específico (RTX 3070), gráficos, bugs y elementos de la historia.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "47": {
+  "id_resena": 47,
+  "motivo": "Compara el mundo abierto con GTA V, analiza gráficos con RTX 3080 y critica la IA y los bugs.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "48": {
+  "id_resena": 48,
+  "motivo": "Examina la estética, el modo foto y la creación de personajes, contrastándolo con los problemas técnicos.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "49": {
+  "id_resena": 49,
+  "motivo": "Compara el combate, movimiento y mundo abierto con Dark Souls y Sekiro, detallando virtudes y defectos.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "50": {
+  "id_resena": 50,
+  "motivo": "Señala problemas críticos de guardado, diseño de niveles, IA y fallos en el multijugador.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "51": {
+  "id_resena": 51,
+  "motivo": "Analiza la progresión de viales, el escalado de armas y la libertad de exploración con ejemplos.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "52": {
+  "id_resena": 52,
+  "motivo": "Revisa tras un parche los gráficos, la variedad de builds, los caballos, invocaciones y problemas de balance.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "53": {
+  "id_resena": 53,
+  "motivo": "Critica la repetición de jefes en mazmorras y el desbalance de enemigos, valorando el diseño del mundo.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "54": {
+  "id_resena": 54,
+  "motivo": "Enumera pros y contras sobre el mundo, sistema de ventajas, misiones y problemas técnicos.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "55": {
+  "id_resena": 55,
+  "motivo": "Critica los trayectos de vida, el ritmo del primer acto, el uso de vehículos y la falta de profundidad.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "56": {
+  "id_resena": 56,
+  "motivo": "Valora la arquitectura del mundo, la construcción del entorno, personajes específicos y el rol.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "57": {
+  "id_resena": 57,
+  "motivo": "Critica la política de Bethesda y analiza cambios técnicos concretos de la versión como estabilidad y texturas.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "58": {
+  "id_resena": 58,
+  "motivo": "Reflexiona sobre la duración, la inmersión, el diseño de la ciudad y las expectativas frente al resultado final.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "59": {
+  "id_resena": 59,
+  "motivo": "Analiza la inmersión en el mundo, la profundidad de los personajes principales y los fallos técnicos ocasionales.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "60": {
+  "id_resena": 60,
+  "motivo": "Lista de forma exhaustiva fallos de la inteligencia artificial, la policía y características eliminadas del juego.",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "61": {
+  "id_resena": 61,
+  "motivo": "Valora en detalle el mundo abierto, creador de personajes, gráficos y rendimiento de Elden Ring",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "62": {
+  "id_resena": 62,
+  "motivo": "Analiza bugs, conducción, combate y narrativa de Cyberpunk 2077 con ejemplos personales",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "63": {
+  "id_resena": 63,
+  "motivo": "Discute bugs, rendimiento, gráficos, audio e historia de Cyberpunk 2077 con detalles técnicos",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "64": {
+  "id_resena": 64,
+  "motivo": "Valora misiones secundarias, elecciones, bugs, optimización, música e historia de Cyberpunk 2077",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "65": {
+  "id_resena": 65,
+  "motivo": "Analiza rendimiento técnico, gráficos, diseño facial, atmósfera y problemas generales del juego",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "66": {
+  "id_resena": 66,
+  "motivo": "Valora apartado visual, sistema de sigilo, combate tipo doom, narrativa y rendimiento",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "67": {
+  "id_resena": 67,
+  "motivo": "Analiza la ciudad, la IA de los NPC, la belleza del mundo y los bugs de Cyberpunk 2077",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "68": {
+  "id_resena": 68,
+  "motivo": "Critica con argumentos la estructura del guion, la falta de impacto del jugador y mecánicas",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "69": {
+  "id_resena": 69,
+  "motivo": "Valora la IA, la policía, la interactividad del mundo, la historia y el combate con ejemplos",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "70": {
+  "id_resena": 70,
+  "motivo": "Analiza combate cuerpo a cuerpo, diseño visual, exploración y critica el diseño de jefes",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "71": {
+  "id_resena": 71,
+  "motivo": "Valora historia, misiones, vida en la ciudad, combate y progresión en PC con detalle",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "72": {
+  "id_resena": 72,
+  "motivo": "Analiza la dificultad injusta, diseño visual de criaturas, reciclaje de enemigos y misiones",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "73": {
+  "id_resena": 73,
+  "motivo": "Critica extensamente las mecánicas de conducción, el estado del juego y la jugabilidad",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "74": {
+  "id_resena": 74,
+  "motivo": "Valora la jugabilidad de mundo abierto, opciones de accesibilidad, jefes y el diseño del mapa",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "75": {
+  "id_resena": 75,
+  "motivo": "Reseña muy negativa comparando fuertemente el juego con demos falsas y criticando su contenido general",
+  "categoria": "Opinión genérica",
+  "nivel_informativo": "Bajo"
+ },
+ "76": {
+  "id_resena": 76,
+  "motivo": "Valora la construcción de mundo, las facciones, la atmósfera y la narrativa de Cyberpunk 2077",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "77": {
+  "id_resena": 77,
+  "motivo": "Analiza los problemas de rol, el rendimiento en PC, los bugs y compara el juego con otros títulos",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "78": {
+  "id_resena": 78,
+  "motivo": "Ofrece consejos técnicos, configuración de rendimiento, expansiones y mecánicas detalladas de The Witcher 3",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "79": {
+  "id_resena": 79,
+  "motivo": "Analiza la calidad de las misiones, la repetición de mazmorras y el diseño de Skyrim",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ },
+ "80": {
+  "id_resena": 80,
+  "motivo": "Valora rendimiento técnico, bugs, lentitud de la trama, gunplay y apartado sonoro con críticas duras",
+  "categoria": "Informativa",
+  "nivel_informativo": "Alto"
+ }
+}
